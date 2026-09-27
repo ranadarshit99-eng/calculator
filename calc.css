@@ -44,6 +44,6 @@ body {
 }
 
 .button:active {
-    background-color: #999999;
+    background-color: #7a4747;
     /* pressed effect */
 }
